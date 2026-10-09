@@ -372,9 +372,3 @@ online-quiz-system/
 
 ---
 
-## 👨‍💻 Project Info
-
-- **Student**: Galgotias University, B.Tech CSE
-- **Subject**: Java Programming (College Project)
-- **Review**: Review 1 — Code Completion
-- **Tech Stack**: Java 17/21, Spring Boot 3.3, Spring Security 6, JWT (JJWT 0.12), Spring Data JPA, Hibernate, JDBC, H2/MySQL, Bootstrap 5, Vanilla JS
